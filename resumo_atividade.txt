@@ -1,0 +1,29 @@
+Utilizando uma das tecnologias aprendidas: Serviços de Aplicativos ou ACR/ACI (deve-se utilizar ambos ACR e
+ACI nessa opção):
+• Implantar a solução ou parte dela (um módulo do sistema) da Odontoprev em Nuvem;
+• Serão aceitas soluções com Front ou API;
+• Obrigatório um Banco de Dados em Nuvem que não seja o H2. Serão aceitos: Oracle, Mysql, SQL da Azure
+ou PostgreSQL;
+• Realize um CRUD (Inclusão, Alteração, Exclusão e Consulta) sobre pelo menos duas tabelas com um
+relacionamento entre elas;
+• Inclua e movimente no mínimo 5 linhas com conteúdo significativo nessas tabelas (testes).
+Entregas obrigatórias:
+1) Uma breve descrição de sua solução; (0 pontos – Na falta a nota será subtraída em 05 pontos);
+2) O desenho da arquitetura da solução proposta (desenho baseado em nossa disciplina, mostrando os recursos,
+fluxos da informação etc); (até 20 pontos);
+3) Uma breve descrição dos benefícios a serem alcançados em relação ao negócio (com a implantação da
+solução proposta); (0 pontos – Na falta a nota será subtraída em 05 pontos);
+4) DDL das tabelas (tabelas, colunas, chave primária, comentários etc) - Criar um arquivo de texto somente
+com esse DDL; (até 05 pontos);
+5) Código-Fonte da aplicação no Github (e com tudo que é necessário para a execução do App/API) com um
+Readme.md para realizar o Deploy e testes (O Prof. irá reproduzir e testar o deploy com base nesse
+Readme.md). Incluir os scripts JSON do CRUD, se a solução for uma API; (até 05 pontos);
+Entregas obrigatórias:
+6) Uma gravação de um vídeo mostrando o funcionamento da solução, desde o Clone do Repositório (ou do
+build da Imagem), mostrando o funcionamento até persistência de dados em Nuvem MS Azure. Inclusive, o
+vídeo deve mostrar os dados persistidos no banco de dados (CRUD); (até 70 pontos);
+Obs: O vídeo precisa ter qualidade de no mínimo 720p, e conter áudio ou legenda explicando o
+desenvolvimento da solução em nuvem.
+7) Arquivo PDF, contendo o nome e RM dos integrantes do time, link do Github e Link do Vídeo. (0 pontos);
+Obs: O professor precisa ter acesso ao vídeo.
+A PONTUAÇÃO DE CADA QUESITO VAI VARIAR DE ACORDO COM A QUALIDADE DA TAREFA ENTREGUE!
