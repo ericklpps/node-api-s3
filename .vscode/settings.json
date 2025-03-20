@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d34ba923-e904-4992-9b9b-62884ea5f244/resourceGroups/rg-banco-sprint3/providers/Microsoft.Web/sites/apinodesprint3",
+    "appService.deploySubpath": "."
+}
