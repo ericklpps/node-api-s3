@@ -22,11 +22,15 @@ A solução inclui:
 
 ## ⚙️ Funcionalidades da API
 
-- ✅ Criar consulta odontológica  
-- ✅ Listar consultas  
-- ✅ Atualizar dados de consulta  
-- ✅ Deletar consulta  
-- ✅ Verificar conexão com o banco de dados  
+- ✅ Criar consulta odontológica e paciente  
+- ✅ Listar consultas e pacientes  (/consultas e /pacientes)
+- ✅ Atualizar dados de consulta e pacientes
+- ✅ Deletar consulta e paciente
+- ✅ Verificar conexão com o banco de dados (/verificar-conexao)  
+
+
+** link API **: https://api-cosultorio-avdwe4hxd2bscpbu.eastus2-01.azurewebsites.net/
+
 
 As operações são persistidas diretamente no **Azure SQL Database**.
 
