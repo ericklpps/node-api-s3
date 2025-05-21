@@ -36,7 +36,7 @@ As operações são persistidas diretamente no **Azure SQL Database**.
 
 
 
-## JSON pacientes
+##  Modelo JSON pacientes
 [
   {
     "ID": 1,
@@ -64,7 +64,7 @@ As operações são persistidas diretamente no **Azure SQL Database**.
   }
 ]
 
-## JSON Consultas
+## Modelo JSON Consultas
 
 [
   {
