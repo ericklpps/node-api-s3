@@ -29,7 +29,7 @@ A solução inclui:
 - ✅ Verificar conexão com o banco de dados (/verificar-conexao)  
 
 
-** link API **: https://api-cosultorio-avdwe4hxd2bscpbu.eastus2-01.azurewebsites.net/
+**link API**: https://api-cosultorio-avdwe4hxd2bscpbu.eastus2-01.azurewebsites.net/
 
 
 As operações são persistidas diretamente no **Azure SQL Database**.
