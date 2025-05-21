@@ -95,3 +95,6 @@ As operações são persistidas diretamente no **Azure SQL Database**.
 
 
 As tabelas possuem relacionamentos como pode ser visto na relação consulta/paciente
+
+
+Link vídeo: https://youtu.be/jqGGueN96zU
