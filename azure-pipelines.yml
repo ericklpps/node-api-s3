@@ -6,7 +6,7 @@ pool:
 
 variables:
   azureSubscription: 'MyAzureSubscription'   
-  appName: 'api-consultorio-advdwe4hxd2bscpbu'   
+  appName: 'api-consultorio'   
   packageDirectory: '$(System.DefaultWorkingDirectory)'
 
 steps:
