@@ -88,3 +88,6 @@ As operações são persistidas diretamente no **Azure SQL Database**.
     "Observacoes": "Paciente ansioso."
   }
 ]
+
+
+As tabelas possuem relacionamentos como pode ser visto na relação consulta/paciente
